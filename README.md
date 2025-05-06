@@ -2,6 +2,8 @@
 
 This document outlines when and why to use **Python with Boto3** instead of **Terraform**, and vice versa. It compares their strengths, weaknesses, and ideal use cases.
 
+documentation: ![AWS boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+
 ---
 
 ## ✅ When to Use Python + Boto3 (Advantages)
